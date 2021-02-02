@@ -5,5 +5,6 @@ public class secondprojclass {
 	   System.out.println("secondprojclass1.."); {
 		   System.out.println("this is the 2")
 	   }
+	   System.out.println("secondprojclass1");
    }
 }
